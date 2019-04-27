@@ -1,0 +1,600 @@
+file name     #letters   #numbers   #rest
+
+src/data/f5.txt    53984    20743    26646   1
+
+src/data/f3.txt    35867    13578    18014   2
+
+src/data/f1.txt    33712    13209    16888   3
+
+src/data/f7.txt    98245    38162    49332   4
+
+src/data/f11.txt    4229    1588    2073   5
+
+src/data/f9.txt    15511    6040    7576   6
+
+src/data/f10.txt    102747    39731    51587   7
+
+src/data/f12.txt    58262    22526    29425   8
+
+src/data/f2.txt    87404    33739    43745   9
+
+src/data/f4.txt    43794    17068    21778   10
+
+src/data/f6.txt    69523    26592    34979   11
+
+src/data/f14.txt    36404    14344    18318   12
+
+src/data/f19.txt    26244    10040    13244   13
+
+src/data/f20.txt    43479    16938    22102   14
+
+src/data/f13.txt    58980    22690    29412   15
+
+src/data/f21.txt    60249    23027    30193   16
+
+src/data/f0.txt    63213    24325    31351   17
+
+src/data/f8.txt    79004    30082    39236   18
+
+src/data/f17.txt    86176    33325    43041   19
+
+src/data/f24.txt    81672    31372    40940   20
+
+src/data/f26.txt    47390    18295    23391   21
+
+src/data/f23.txt    75220    28609    37476   22
+
+src/data/f18.txt    47779    18197    24346   23
+
+src/data/f15.txt    92477    35522    46201   24
+
+src/data/f22.txt    68973    26271    34191   25
+
+src/data/f25.txt    73911    28528    37148   26
+
+src/data/f32.txt    3595    1342    1805   27
+
+src/data/f31.txt    57976    22203    28840   28
+
+src/data/f34.txt    9375    3775    4563   29
+
+src/data/f30.txt    92050    35408    46230   30
+
+src/data/f37.txt    52933    20258    26750   31
+
+src/data/f35.txt    97320    37323    48900   32
+
+src/data/f36.txt    102809    39438    51937   33
+
+src/data/f38.txt    33802    12797    16835   34
+
+src/data/f41.txt    40571    15395    20157   35
+
+src/data/f39.txt    96320    36775    48173   36
+
+src/data/f40.txt    87039    33933    43473   37
+
+src/data/f42.txt    77975    30021    39152   38
+
+src/data/f28.txt    88781    34233    44496   39
+
+src/data/f27.txt    95387    36418    47554   40
+
+src/data/f16.txt    45699    17678    23049   41
+
+src/data/f33.txt    29748    11366    14912   42
+
+src/data/f29.txt    34284    13084    17103   43
+
+src/data/f44.txt    26994    10245    13531   44
+
+src/data/f43.txt    35049    13171    17605   45
+
+src/data/f47.txt    71082    27243    35676   46
+
+src/data/f45.txt    54599    21155    27489   47
+
+src/data/f50.txt    18062    6949    9074   48
+
+src/data/f46.txt    99864    38343    50344   49
+
+src/data/f51.txt    36635    14298    18512   50
+
+src/data/f49.txt    87078    33226    43558   51
+
+src/data/f52.txt    6123    2444    3071   52
+
+src/data/f48.txt    56562    21705    28279   53
+
+src/data/f56.txt    4216    1553    2097   54
+
+src/data/f55.txt    95499    36134    47471   55
+
+src/data/f53.txt    104015    40697    52123   56
+
+src/data/f54.txt    71210    27585    35960   57
+
+src/data/f57.txt    69965    26684    34740   58
+
+src/data/f58.txt    56844    21939    28236   59
+
+src/data/f59.txt    57856    22533    28813   60
+
+src/data/f61.txt    4996    1983    2616   61
+
+src/data/f62.txt    62851    24300    31616   62
+
+src/data/f60.txt    58364    22100    29065   63
+
+src/data/f63.txt    23136    8841    11456   64
+
+src/data/f67.txt    86821    33611    43542   65
+
+src/data/f65.txt    40714    15584    20349   66
+
+src/data/f64.txt    83191    32237    41642   67
+
+src/data/f66.txt    105391    40525    52739   68
+
+src/data/f70.txt    63001    24610    31737   69
+
+src/data/f68.txt    9115    3516    4385   70
+
+src/data/f72.txt    2712    1047    1337   71
+
+src/data/f71.txt    6076    2352    2937   72
+
+src/data/f73.txt    22496    8620    10990   73
+
+src/data/f74.txt    4511    1737    2272   74
+
+src/data/f69.txt    41371    16132    21079   75
+
+src/data/f78.txt    2292    891    1130   76
+
+src/data/f76.txt    18975    7219    9403   77
+
+src/data/f75.txt    80642    30992    40333   78
+
+src/data/f79.txt    76070    29647    38463   79
+
+src/data/f77.txt    44571    17260    22413   80
+
+src/data/f87.txt    28418    11162    14221   81
+
+src/data/f83.txt    84172    32502    42082   82
+
+src/data/f85.txt    83565    32200    41727   83
+
+src/data/f84.txt    93233    35838    46729   84
+
+src/data/f86.txt    48209    18475    24086   85
+
+src/data/f80.txt    84598    32639    42176   86
+
+src/data/f91.txt    5108    2031    2616   87
+
+src/data/f88.txt    37505    14520    18705   88
+
+src/data/f82.txt    100433    38316    49847   89
+
+src/data/f90.txt    90439    35065    45697   90
+
+src/data/f81.txt    102912    39487    51666   91
+
+src/data/f92.txt    85129    32434    42444   92
+
+src/data/f89.txt    58059    22228    28698   93
+
+src/data/f97.txt    105804    40917    52987   94
+
+src/data/f93.txt    58719    22597    29435   95
+
+src/data/f94.txt    81622    31335    40859   96
+
+src/data/f96.txt    79383    30842    40030   97
+
+src/data/f95.txt    76071    28883    38231   98
+
+src/data/f98.txt    84825    32736    42481   99
+
+file name     #letters   #numbers   #rest
+
+src/data/f6.txt    69523    26592    34979   1
+
+src/data/f2.txt    87404    33739    43745   2
+
+src/data/f9.txt    15511    6040    7576   3
+
+src/data/f5.txt    53984    20743    26646   4
+
+src/data/f11.txt    4229    1588    2073   5
+
+src/data/f0.txt    63213    24325    31351   6
+
+src/data/f3.txt    35867    13578    18014   7
+
+src/data/f13.txt    58980    22690    29412   8
+
+src/data/f14.txt    36404    14344    18318   9
+
+src/data/f12.txt    58262    22526    29425   10
+
+src/data/f16.txt    45699    17678    23049   11
+
+src/data/f15.txt    92477    35522    46201   12
+
+src/data/f18.txt    47779    18197    24346   13
+
+src/data/f1.txt    33712    13209    16888   14
+
+src/data/f4.txt    43794    17068    21778   15
+
+src/data/f20.txt    43479    16938    22102   16
+
+src/data/f19.txt    26244    10040    13244   17
+
+src/data/f22.txt    68973    26271    34191   18
+
+src/data/f21.txt    60249    23027    30193   19
+
+src/data/f23.txt    75220    28609    37476   20
+
+src/data/f24.txt    81672    31372    40940   21
+
+src/data/f7.txt    98245    38162    49332   22
+
+src/data/f25.txt    73911    28528    37148   23
+
+src/data/f28.txt    88781    34233    44496   24
+
+src/data/f8.txt    79004    30082    39236   25
+
+src/data/f30.txt    92050    35408    46230   26
+
+src/data/f32.txt    3595    1342    1805   27
+
+src/data/f34.txt    9375    3775    4563   28
+
+src/data/f33.txt    29748    11366    14912   29
+
+src/data/f29.txt    34284    13084    17103   30
+
+src/data/f27.txt    95387    36418    47554   31
+
+src/data/f10.txt    102747    39731    51587   32
+
+src/data/f38.txt    33802    12797    16835   33
+
+src/data/f26.txt    47390    18295    23391   34
+
+src/data/f39.txt    96320    36775    48173   35
+
+src/data/f40.txt    87039    33933    43473   36
+
+src/data/f43.txt    35049    13171    17605   37
+
+src/data/f41.txt    40571    15395    20157   38
+
+src/data/f44.txt    26994    10245    13531   39
+
+src/data/f45.txt    54599    21155    27489   40
+
+src/data/f37.txt    52933    20258    26750   41
+
+src/data/f48.txt    56562    21705    28279   42
+
+src/data/f47.txt    71082    27243    35676   43
+
+src/data/f49.txt    87078    33226    43558   44
+
+src/data/f31.txt    57976    22203    28840   45
+
+src/data/f52.txt    6123    2444    3071   46
+
+src/data/f50.txt    18062    6949    9074   47
+
+src/data/f51.txt    36635    14298    18512   48
+
+src/data/f36.txt    102809    39438    51937   49
+
+src/data/f56.txt    4216    1553    2097   50
+
+src/data/f53.txt    104015    40697    52123   51
+
+src/data/f42.txt    77975    30021    39152   52
+
+src/data/f57.txt    69965    26684    34740   53
+
+src/data/f58.txt    56844    21939    28236   54
+
+src/data/f61.txt    4996    1983    2616   55
+
+src/data/f46.txt    99864    38343    50344   56
+
+src/data/f63.txt    23136    8841    11456   57
+
+src/data/f62.txt    62851    24300    31616   58
+
+src/data/f60.txt    58364    22100    29065   59
+
+src/data/f65.txt    40714    15584    20349   60
+
+src/data/f66.txt    105391    40525    52739   61
+
+src/data/f68.txt    9115    3516    4385   62
+
+src/data/f67.txt    86821    33611    43542   63
+
+src/data/f69.txt    41371    16132    21079   64
+
+src/data/f71.txt    6076    2352    2937   65
+
+src/data/f72.txt    2712    1047    1337   66
+
+src/data/f73.txt    22496    8620    10990   67
+
+src/data/f74.txt    4511    1737    2272   68
+
+src/data/f55.txt    95499    36134    47471   69
+
+src/data/f54.txt    71210    27585    35960   70
+
+src/data/f76.txt    18975    7219    9403   71
+
+src/data/f78.txt    2292    891    1130   72
+
+src/data/f77.txt    44571    17260    22413   73
+
+src/data/f79.txt    76070    29647    38463   74
+
+src/data/f80.txt    84598    32639    42176   75
+
+src/data/f64.txt    83191    32237    41642   76
+
+src/data/f17.txt    86176    33325    43041   77
+
+src/data/f75.txt    80642    30992    40333   78
+
+src/data/f82.txt    100433    38316    49847   79
+
+src/data/f35.txt    97320    37323    48900   80
+
+src/data/f70.txt    63001    24610    31737   81
+
+src/data/f86.txt    48209    18475    24086   82
+
+src/data/f85.txt    83565    32200    41727   83
+
+src/data/f88.txt    37505    14520    18705   84
+
+src/data/f89.txt    58059    22228    28698   85
+
+src/data/f84.txt    93233    35838    46729   86
+
+src/data/f90.txt    90439    35065    45697   87
+
+src/data/f92.txt    85129    32434    42444   88
+
+src/data/f83.txt    84172    32502    42082   89
+
+src/data/f93.txt    58719    22597    29435   90
+
+src/data/f94.txt    81622    31335    40859   91
+
+src/data/f96.txt    79383    30842    40030   92
+
+src/data/f59.txt    57856    22533    28813   93
+
+src/data/f91.txt    5108    2031    2616   94
+
+src/data/f81.txt    102912    39487    51666   95
+
+src/data/f87.txt    28418    11162    14221   96
+
+src/data/f98.txt    84825    32736    42481   97
+
+src/data/f97.txt    105804    40917    52987   98
+
+src/data/f95.txt    76071    28883    38231   99
+
+file name     #letters   #numbers   #rest
+
+src/data/f7.txt    98245    38162    49332   1
+
+src/data/f4.txt    43794    17068    21778   2
+
+src/data/f5.txt    53984    20743    26646   3
+
+src/data/f9.txt    15511    6040    7576   4
+
+src/data/f2.txt    87404    33739    43745   5
+
+src/data/f6.txt    69523    26592    34979   6
+
+src/data/f3.txt    35867    13578    18014   7
+
+src/data/f12.txt    58262    22526    29425   8
+
+src/data/f1.txt    33712    13209    16888   9
+
+src/data/f0.txt    63213    24325    31351   10
+
+src/data/f14.txt    36404    14344    18318   11
+
+src/data/f18.txt    47779    18197    24346   12
+
+src/data/f16.txt    45699    17678    23049   13
+
+src/data/f11.txt    4229    1588    2073   14
+
+src/data/f19.txt    26244    10040    13244   15
+
+src/data/f20.txt    43479    16938    22102   16
+
+src/data/f17.txt    86176    33325    43041   17
+
+src/data/f22.txt    68973    26271    34191   18
+
+src/data/f21.txt    60249    23027    30193   19
+
+src/data/f24.txt    81672    31372    40940   20
+
+src/data/f23.txt    75220    28609    37476   21
+
+src/data/f26.txt    47390    18295    23391   22
+
+src/data/f15.txt    92477    35522    46201   23
+
+src/data/f27.txt    95387    36418    47554   24
+
+src/data/f28.txt    88781    34233    44496   25
+
+src/data/f32.txt    3595    1342    1805   26
+
+src/data/f31.txt    57976    22203    28840   27
+
+src/data/f33.txt    29748    11366    14912   28
+
+src/data/f34.txt    9375    3775    4563   29
+
+src/data/f30.txt    92050    35408    46230   30
+
+src/data/f13.txt    58980    22690    29412   31
+
+src/data/f35.txt    97320    37323    48900   32
+
+src/data/f37.txt    52933    20258    26750   33
+
+src/data/f29.txt    34284    13084    17103   34
+
+src/data/f38.txt    33802    12797    16835   35
+
+src/data/f10.txt    102747    39731    51587   36
+
+src/data/f25.txt    73911    28528    37148   37
+
+src/data/f40.txt    87039    33933    43473   38
+
+src/data/f43.txt    35049    13171    17605   39
+
+src/data/f46.txt    99864    38343    50344   40
+
+src/data/f47.txt    71082    27243    35676   41
+
+src/data/f48.txt    56562    21705    28279   42
+
+src/data/f44.txt    26994    10245    13531   43
+
+src/data/f50.txt    18062    6949    9074   44
+
+src/data/f51.txt    36635    14298    18512   45
+
+src/data/f52.txt    6123    2444    3071   46
+
+src/data/f39.txt    96320    36775    48173   47
+
+src/data/f36.txt    102809    39438    51937   48
+
+src/data/f54.txt    71210    27585    35960   49
+
+src/data/f56.txt    4216    1553    2097   50
+
+src/data/f55.txt    95499    36134    47471   51
+
+src/data/f57.txt    69965    26684    34740   52
+
+src/data/f58.txt    56844    21939    28236   53
+
+src/data/f59.txt    57856    22533    28813   54
+
+src/data/f61.txt    4996    1983    2616   55
+
+src/data/f60.txt    58364    22100    29065   56
+
+src/data/f62.txt    62851    24300    31616   57
+
+src/data/f63.txt    23136    8841    11456   58
+
+src/data/f65.txt    40714    15584    20349   59
+
+src/data/f64.txt    83191    32237    41642   60
+
+src/data/f41.txt    40571    15395    20157   61
+
+src/data/f42.txt    77975    30021    39152   62
+
+src/data/f8.txt    79004    30082    39236   63
+
+src/data/f68.txt    9115    3516    4385   64
+
+src/data/f71.txt    6076    2352    2937   65
+
+src/data/f69.txt    41371    16132    21079   66
+
+src/data/f70.txt    63001    24610    31737   67
+
+src/data/f73.txt    22496    8620    10990   68
+
+src/data/f74.txt    4511    1737    2272   69
+
+src/data/f72.txt    2712    1047    1337   70
+
+src/data/f76.txt    18975    7219    9403   71
+
+src/data/f45.txt    54599    21155    27489   72
+
+src/data/f75.txt    80642    30992    40333   73
+
+src/data/f77.txt    44571    17260    22413   74
+
+src/data/f66.txt    105391    40525    52739   75
+
+src/data/f80.txt    84598    32639    42176   76
+
+src/data/f79.txt    76070    29647    38463   77
+
+src/data/f81.txt    102912    39487    51666   78
+
+src/data/f83.txt    84172    32502    42082   79
+
+src/data/f84.txt    93233    35838    46729   80
+
+src/data/f85.txt    83565    32200    41727   81
+
+src/data/f86.txt    48209    18475    24086   82
+
+src/data/f87.txt    28418    11162    14221   83
+
+src/data/f88.txt    37505    14520    18705   84
+
+src/data/f91.txt    5108    2031    2616   85
+
+src/data/f89.txt    58059    22228    28698   86
+
+src/data/f90.txt    90439    35065    45697   87
+
+src/data/f92.txt    85129    32434    42444   88
+
+src/data/f94.txt    81622    31335    40859   89
+
+src/data/f53.txt    104015    40697    52123   90
+
+src/data/f67.txt    86821    33611    43542   91
+
+src/data/f97.txt    105804    40917    52987   92
+
+src/data/f78.txt    2292    891    1130   93
+
+src/data/f93.txt    58719    22597    29435   94
+
+src/data/f95.txt    76071    28883    38231   95
+
+src/data/f82.txt    100433    38316    49847   96
+
+src/data/f96.txt    79383    30842    40030   97
+
+src/data/f49.txt    87078    33226    43558   98
+
+src/data/f98.txt    84825    32736    42481   99
+
